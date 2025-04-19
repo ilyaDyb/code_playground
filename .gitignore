@@ -1,1 +1,8 @@
+# dirs:
+.vscode/
+__pycache__/
+
+# files:
 .env
+.pylintrc
+CodePlayground_MVP_README.md
